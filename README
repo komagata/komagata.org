@@ -1,0 +1,11 @@
+= komagata.org
+
+http://komagata.org/
+
+== INSTALLATION
+
+    $ gem install bundler -v=0.9.25
+    $ bundle install
+    $ rackup
+
+Access to http://localhost:9292/
